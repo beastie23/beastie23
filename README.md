@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @beastie23
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning css,js and python
+- 🌱 I’m currently learning React!
 - 💞️ I’m looking to collaborate on frontend web development
-- 📫 How to reach me 
+- 📫 reach me thorugh my discord at @beastie23
 - 😄 Pronouns: he/him
 
 
